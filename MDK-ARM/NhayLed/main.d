@@ -1,0 +1,19 @@
+nhayled\main.o: ../Core/Src/main.c
+nhayled\main.o: C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.4.1\Device\Include\stm32f10x.h
+nhayled\main.o: C:\New folder\NhayLed\MDK-ARM\RTE\RTE_Components.h
+nhayled\main.o: ../Drivers/CMSIS/Include/core_cm3.h
+nhayled\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+nhayled\main.o: ../Drivers/CMSIS/Include/cmsis_version.h
+nhayled\main.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+nhayled\main.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+nhayled\main.o: C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.4.1\Device\Include\system_stm32f10x.h
+nhayled\main.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+nhayled\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+nhayled\main.o: ../Core/Inc/FreeRTOSConfig.h
+nhayled\main.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+nhayled\main.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+nhayled\main.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+nhayled\main.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+nhayled\main.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+nhayled\main.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+nhayled\main.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h

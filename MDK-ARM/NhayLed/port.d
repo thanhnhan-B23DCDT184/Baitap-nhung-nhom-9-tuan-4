@@ -1,0 +1,12 @@
+nhayled\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/port.c
+nhayled\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+nhayled\port.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+nhayled\port.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+nhayled\port.o: ../Core/Inc/FreeRTOSConfig.h
+nhayled\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+nhayled\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+nhayled\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+nhayled\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+nhayled\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+nhayled\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+nhayled\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
